@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WhiteLightPassDesktop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WhiteLightPassDesktop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
